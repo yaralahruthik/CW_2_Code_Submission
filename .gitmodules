@@ -1,0 +1,6 @@
+[submodule "game-of-life-3d"]
+	path = game-of-life-3d
+	url = https://github.com/yaralahruthik/game-of-life-3d.git
+[submodule "game-of-life"]
+	path = game-of-life
+	url = https://github.com/Nestian/game-of-life.git
