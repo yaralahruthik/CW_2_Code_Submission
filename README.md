@@ -2,6 +2,11 @@
 
 This repository is a collection of two projects, each implementing a different version of the classic cellular automaton, Conway's Game of Life. 
 
+## Team Members
+1. Sali Hyusein [sc18s2h]
+2. Jaymeson Heller [sc19jh]
+3. Hruthik Reddy Yarala [sc22hry]
+
 ## Submodules
 
 This repository contains the following submodules:
